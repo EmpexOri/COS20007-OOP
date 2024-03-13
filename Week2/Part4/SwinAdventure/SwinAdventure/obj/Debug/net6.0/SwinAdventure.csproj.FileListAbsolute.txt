@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\obj\Debug\net6.0\SwinAdventure.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\obj\Debug\net6.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\obj\Debug\net6.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\obj\Debug\net6.0\SwinAdventure.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\obj\Debug\net6.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\bin\Debug\net6.0\SwinAdventure.exe
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\bin\Debug\net6.0\SwinAdventure.deps.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\bin\Debug\net6.0\SwinAdventure.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\bin\Debug\net6.0\SwinAdventure.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\bin\Debug\net6.0\SwinAdventure.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\obj\Debug\net6.0\SwinAdventure.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\obj\Debug\net6.0\refint\SwinAdventure.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\obj\Debug\net6.0\SwinAdventure.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\obj\Debug\net6.0\SwinAdventure.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part4\SwinAdventure\SwinAdventure\obj\Debug\net6.0\ref\SwinAdventure.dll

@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\bin\Debug\net6.0\Iteration3.exe
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\bin\Debug\net6.0\Iteration3.deps.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\bin\Debug\net6.0\Iteration3.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\bin\Debug\net6.0\Iteration3.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\bin\Debug\net6.0\Iteration3.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\obj\Debug\net6.0\Iteration3.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\obj\Debug\net6.0\Iteration3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\obj\Debug\net6.0\Iteration3.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\obj\Debug\net6.0\Iteration3.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\obj\Debug\net6.0\Iteration3.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\obj\Debug\net6.0\Iteration3.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\obj\Debug\net6.0\refint\Iteration3.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\obj\Debug\net6.0\Iteration3.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\obj\Debug\net6.0\Iteration3.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week5\5.2\Iteration3\Iteration3\obj\Debug\net6.0\ref\Iteration3.dll

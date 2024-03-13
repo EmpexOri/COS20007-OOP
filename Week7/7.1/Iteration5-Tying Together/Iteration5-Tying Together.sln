@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iteration5-Tying Together", "Iteration5-Tying Together\Iteration5-Tying Together.csproj", "{AB65A0CD-D1CC-4E88-8B81-DFA6854B8F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB65A0CD-D1CC-4E88-8B81-DFA6854B8F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB65A0CD-D1CC-4E88-8B81-DFA6854B8F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB65A0CD-D1CC-4E88-8B81-DFA6854B8F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB65A0CD-D1CC-4E88-8B81-DFA6854B8F46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ADA4FBC-71EC-496B-BAE2-D8F104E8B7F0}
+	EndGlobalSection
+EndGlobal

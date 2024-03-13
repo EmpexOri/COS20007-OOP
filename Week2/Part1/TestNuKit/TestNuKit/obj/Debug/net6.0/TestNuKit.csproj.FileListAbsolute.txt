@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\bin\Debug\net6.0\TestNuKit.exe
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\bin\Debug\net6.0\TestNuKit.deps.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\bin\Debug\net6.0\TestNuKit.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\bin\Debug\net6.0\TestNuKit.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\bin\Debug\net6.0\TestNuKit.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\obj\Debug\net6.0\TestNuKit.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\obj\Debug\net6.0\TestNuKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\obj\Debug\net6.0\TestNuKit.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\obj\Debug\net6.0\TestNuKit.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\obj\Debug\net6.0\TestNuKit.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\obj\Debug\net6.0\TestNuKit.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\obj\Debug\net6.0\refint\TestNuKit.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\obj\Debug\net6.0\TestNuKit.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\obj\Debug\net6.0\TestNuKit.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\TestNuKit\TestNuKit\obj\Debug\net6.0\ref\TestNuKit.dll

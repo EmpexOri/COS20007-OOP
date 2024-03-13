@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\bin\Debug\net6.0\ClockClass.exe
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\bin\Debug\net6.0\ClockClass.deps.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\bin\Debug\net6.0\ClockClass.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\bin\Debug\net6.0\ClockClass.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\bin\Debug\net6.0\ClockClass.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\obj\Debug\net6.0\ClockClass.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\obj\Debug\net6.0\ClockClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\obj\Debug\net6.0\ClockClass.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\obj\Debug\net6.0\ClockClass.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\obj\Debug\net6.0\ClockClass.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\obj\Debug\net6.0\ClockClass.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\obj\Debug\net6.0\refint\ClockClass.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\obj\Debug\net6.0\ClockClass.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\obj\Debug\net6.0\ClockClass.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week3\Task1\ClockClass\ClockClass\obj\Debug\net6.0\ref\ClockClass.dll

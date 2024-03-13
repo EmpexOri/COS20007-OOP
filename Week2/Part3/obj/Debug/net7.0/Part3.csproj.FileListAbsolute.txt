@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\bin\Debug\net7.0\Part3.exe
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\bin\Debug\net7.0\Part3.deps.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\bin\Debug\net7.0\Part3.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\bin\Debug\net7.0\Part3.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\bin\Debug\net7.0\Part3.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\obj\Debug\net7.0\Part3.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\obj\Debug\net7.0\Part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\obj\Debug\net7.0\Part3.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\obj\Debug\net7.0\Part3.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\obj\Debug\net7.0\Part3.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\obj\Debug\net7.0\Part3.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\obj\Debug\net7.0\refint\Part3.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\obj\Debug\net7.0\Part3.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\obj\Debug\net7.0\Part3.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week2\Part3\obj\Debug\net7.0\ref\Part3.dll

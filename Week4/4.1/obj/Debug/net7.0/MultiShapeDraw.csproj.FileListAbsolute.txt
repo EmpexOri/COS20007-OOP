@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\bin\Debug\net7.0\MultiShapeDraw.exe
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\bin\Debug\net7.0\MultiShapeDraw.deps.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\bin\Debug\net7.0\MultiShapeDraw.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\bin\Debug\net7.0\MultiShapeDraw.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\bin\Debug\net7.0\MultiShapeDraw.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\obj\Debug\net7.0\MultiShapeDraw.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\obj\Debug\net7.0\MultiShapeDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\obj\Debug\net7.0\MultiShapeDraw.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\obj\Debug\net7.0\MultiShapeDraw.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\obj\Debug\net7.0\MultiShapeDraw.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\obj\Debug\net7.0\MultiShapeDraw.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\obj\Debug\net7.0\refint\MultiShapeDraw.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\obj\Debug\net7.0\MultiShapeDraw.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\obj\Debug\net7.0\MultiShapeDraw.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week4\4.1\obj\Debug\net7.0\ref\MultiShapeDraw.dll
