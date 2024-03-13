@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\bin\Debug\net6.0\Iteration4-Look.exe
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\bin\Debug\net6.0\Iteration4-Look.deps.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\bin\Debug\net6.0\Iteration4-Look.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\bin\Debug\net6.0\Iteration4-Look.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\bin\Debug\net6.0\Iteration4-Look.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\obj\Debug\net6.0\Iteration4-Look.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\obj\Debug\net6.0\Iteration4-Look.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\obj\Debug\net6.0\Iteration4-Look.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\obj\Debug\net6.0\Iteration4-Look.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\obj\Debug\net6.0\Iteration4-Look.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\obj\Debug\net6.0\Iteration4-Look.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\obj\Debug\net6.0\refint\Iteration4-Look.dll
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\obj\Debug\net6.0\Iteration4-Look.pdb
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\obj\Debug\net6.0\Iteration4-Look.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Desktop\Uni\Sem2\OOP\Week6\6.1\Iteration4-Look\Iteration4-Look\obj\Debug\net6.0\ref\Iteration4-Look.dll

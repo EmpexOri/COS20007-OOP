@@ -1,0 +1,18 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>460</x><y>310</y><w>290</w><h>190</h></coordinates><panel_attributes>Location
+--
+-_inventory : Inventory
+--
++ Location(string name, string desc)
++ Locate(string id) : Gameobject
++ Inventory : Invetory &lt;&lt;readonly, property&gt;&gt;
++ FullDescription : string &lt;&lt;readonly, property&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>880</x><y>400</y><w>100</w><h>50</h></coordinates><panel_attributes>&lt;&lt;Interface&gt;&gt;
+I Have Inventory</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>550</x><y>210</y><w>100</w><h>30</h></coordinates><panel_attributes>GameObject</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>550</x><y>600</y><w>100</w><h>30</h></coordinates><panel_attributes>Inventory</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>590</x><y>240</y><w>30</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;60</additional_attributes></element><element><id>Relation</id><coordinates><x>590</x><y>500</y><w>30</w><h>110</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;90;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>360</x><y>410</y><w>110</w><h>30</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>90;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>310</y><w>360</w><h>190</h></coordinates><panel_attributes>Player
+--
+-_inventory : Inventory
+-_location : Location
+--
++ Player(string name, string desc, Location startingLocation)
++ Locate(string id): GameObject
++ FullDescription : string &lt;&lt;readonly, property&gt;&gt;
++ Inventory : Inventory &lt;&lt;readonly, property&gt;&gt;
++ Location : Location &lt;&lt;property&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>750</x><y>410</y><w>140</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>120;10;10;10</additional_attributes></element></diagram>
